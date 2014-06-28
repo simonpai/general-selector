@@ -1,0 +1,24 @@
+{
+  "name": "general-selector",
+  "description": "A selector engine accepting custom tree structure definition.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/simonpai/general-selector",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-util": "^2.2.19",
+    "gulp-mocha": "^0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonpai/general-selector.git"
+  },
+  "author": "simonpai (https://github.com/simonpai)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/simonpai/general-selector/raw/master/LICENSE"
+    }
+  ]
+}
